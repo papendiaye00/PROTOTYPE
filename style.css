@@ -1,0 +1,127 @@
+body{
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7FB4d-Z5JD7ntz3V1LfLjGDbWdStRZCAil59ewfUTdQphobPOoTE0GktLeqbqJ0S6-rU&usqp=CAU");
+  
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+#business{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-nav{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-link{
+   margin-left: 220px;
+   padding: 25px;
+}
+.navbar{
+   width: 1500px;
+   margin-left: -250px;
+   height: 150px;
+}
+.rounded{
+    height: 700px;
+    width: 950px;
+    margin-top: 150px;
+    margin-right: -120px;
+}
+.rectangle{
+    height: 300px;
+    width: 250px;
+    background-color: bisque;
+    
+}
+button{
+    height: 100px;
+    margin-top: -350px;
+    width: 50px;
+    color:yellow;
+}
+.titre{
+    display: block;
+    
+}
+.gauche{
+    position: relative;
+    float: left;
+    height: 450px;
+    width: 600px;
+    margin-top: 300px;
+    background-color: rgb(232, 190, 190);
+}
+.badge{
+    margin-top: 120px;
+    font-size: 40px;
+    margin-left: 170px;
+    width: 230px;
+    height: 70px;
+    background-color: brown;
+}
+span{
+    color: white;
+    position: relative;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#gauche1{
+    color: black;
+}
+.promise{
+    background-color: rgb(244, 151, 151);
+    height: 500px;
+    width: auto;
+    margin-top: 80px;
+    opacity: 0.8;
+}
+.centre{
+    position: relative;
+    height: 400px;
+    width: 1100px;
+    margin-top: 80px;
+    margin-left: 0px;
+    border-radius: 20px;
+    border-style: double;
+    background-color: black;
+}
+.centre1{
+    position: relative;
+    height: 430px;
+    width: 1150px;
+    margin-top: -10px;
+    margin-left: -25px;
+    margin-right: 25px;
+    border-radius: 20px;
+   border-style: dashed;
+   border-color: white;
+    background-color: rgb(1, 1, 1);
+}
+#you{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    text-align: center;
+}
+#lorem{
+    text-align: center;
+    font-size: 30px;
+}
+.footer{
+    background-color: rgb(149, 87, 87);
+    margin-top: 300px;
+    width: 1375px;
+    margin-top: -10px;
+    margin-left: -25px;
+    margin-right: 25px;
+}
+
